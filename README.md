@@ -4,7 +4,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://python.org/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)](https://claude.ai/chat/LICENSE)
-[![GSSoC](https://img.shields.io/badge/GSSoC-2025-orange.svg)](https://gssoc.girlscript.tech/)
+[![GSSoC](https://img.shields.io/badge/GSSoC-2026-orange.svg)](https://gssoc.girlscript.tech/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://claude.ai/chat/CONTRIBUTING.md)
 
 ---
