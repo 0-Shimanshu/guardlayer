@@ -146,6 +146,7 @@ The decision bands:
 | `signals/temporal.py`   | Temporal signals: timing gaps, burst patterns                 |
 | `providers/base.py`     | `BaseAIProvider`— the interface for AI fallback            |
 | `cli/dashboard.py`      | The three-tab blessed terminal UI                             |
+| `storage/sqlite.py`     | SQLite-backed persistence layer for local state and records   |
 | `feedback/store.py`     | False positive logging and feedback tracking                  |
 
 ---

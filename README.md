@@ -380,7 +380,10 @@ guardlayer/
 │   └── defaults.yaml      # sensible defaults — works out of the box
 ├── cli/
 │   ├── dashboard.py       # blessed terminal dashboard (3 tabs)
-│   └── __main__.py        # CLI entry point (guardlayer monitor/events/rules)
+│   └── main.py            # CLI entry point (guardlayer monitor/events/rules)
+├── storage/
+│   ├── __init__.py        # storage package marker
+│   └── sqlite.py          # SQLite-backed persistence implementation
 └── feedback/
     └── store.py           # false positive tracking and feedback loop
 ```
